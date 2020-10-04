@@ -1,11 +1,12 @@
 ---
-layout: docs
 title: About
-description: Learn more about the team maintaining Bootstrap, how and why the project started, and how to get involved.
+layout: docs
+description: Learn more about the team maintaining Bootstrap, how and why the project
+  started, and how to get involved.
 group: about
 redirect_from:
-  - "/about/"
-  - "/docs/4.5/about/"
+- "/about/"
+- "/docs/4.5/about/"
 ---
 
 ## Team

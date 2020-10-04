@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Close icon
+layout: docs
 description: Use a generic close icon for dismissing content like modals and alerts.
 group: utilities
 ---

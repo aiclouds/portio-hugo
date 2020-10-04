@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: License FAQs
+layout: docs
 description: Commonly asked questions about Bootstrap's open source license.
 group: about
 ---

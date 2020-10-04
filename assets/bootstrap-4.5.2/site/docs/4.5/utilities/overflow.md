@@ -1,7 +1,8 @@
 ---
-layout: docs
 title: Overflow
-description: Use these shorthand utilities for quickly configuring how content overflows an element.
+layout: docs
+description: Use these shorthand utilities for quickly configuring how content overflows
+  an element.
 group: utilities
 ---
 

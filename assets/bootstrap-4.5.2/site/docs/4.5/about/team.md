@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Team
+layout: docs
 description: An overview of the founding team and core contributors to Bootstrap.
 group: about
 ---

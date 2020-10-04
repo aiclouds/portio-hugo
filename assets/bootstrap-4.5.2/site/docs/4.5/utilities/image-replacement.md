@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Image replacement
+layout: docs
 description: Swap text for background images with the image replacement class.
 group: utilities
 ---

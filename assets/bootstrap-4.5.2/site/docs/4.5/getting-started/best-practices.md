@@ -1,7 +1,8 @@
 ---
-layout: docs
 title: Best practices
-description: Learn about some of the best practices we've gathered from years of working on and using Bootstrap.
+layout: docs
+description: Learn about some of the best practices we've gathered from years of working
+  on and using Bootstrap.
 group: getting-started
 ---
 

@@ -1,7 +1,8 @@
 ---
-layout: docs
 title: Figures
-description: Documentation and examples for displaying related images and text with the figure component in Bootstrap.
+layout: docs
+description: Documentation and examples for displaying related images and text with
+  the figure component in Bootstrap.
 group: content
 ---
 

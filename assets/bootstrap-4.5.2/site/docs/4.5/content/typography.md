@@ -1,7 +1,8 @@
 ---
-layout: docs
 title: Typography
-description: Documentation and examples for Bootstrap typography, including global settings, headings, body text, lists, and more.
+layout: docs
+description: Documentation and examples for Bootstrap typography, including global
+  settings, headings, body text, lists, and more.
 group: content
 toc: true
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Benjamin Franklins thoughts about new designers"
-date: 2020-07-13T12:49:27+06:00
+title: Benjamin Franklins thoughts about new designers
+date: 2020-07-13 06:49:27 Z
 featureImage: images/allpost/allPost-7.jpg
 postImage: images/single-blog/feature-image.jpg
 ---

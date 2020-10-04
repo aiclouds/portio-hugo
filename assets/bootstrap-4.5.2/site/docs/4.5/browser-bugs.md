@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Wall of browser bugs
+layout: docs
 group: browser-bugs
 redirect_from: "/browser-bugs/"
 ---

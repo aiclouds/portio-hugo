@@ -1,3 +1,13 @@
+---
+title: Portio Oct4
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 theme: jekyll-theme-merlot
 url: https://aiclouds.github.com/portio-oct4/
 baseurl: "/aiclouds.github.io"

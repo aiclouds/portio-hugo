@@ -1,7 +1,8 @@
 ---
-layout: docs
 title: Interactions
-description: Utility classes that change how users interact with the contents of a website.
+layout: docs
+description: Utility classes that change how users interact with the contents of a
+  website.
 group: utilities
 ---
 

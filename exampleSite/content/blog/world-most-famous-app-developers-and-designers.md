@@ -1,6 +1,6 @@
 ---
-title: "World's Most Famous App Developers and Designers"
-date: 2020-07-13T12:49:27+06:00
+title: World's Most Famous App Developers and Designers
+date: 2020-07-13 06:49:27 Z
 featureImage: images/allpost/allPost-1.jpg
 postImage: images/single-blog/feature-image.jpg
 ---

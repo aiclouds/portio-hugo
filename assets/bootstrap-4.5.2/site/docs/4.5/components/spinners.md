@@ -1,7 +1,8 @@
 ---
-layout: docs
 title: Spinners
-description: Indicate the loading state of a component or page with Bootstrap spinners, built entirely with HTML, CSS, and no JavaScript.
+layout: docs
+description: Indicate the loading state of a component or page with Bootstrap spinners,
+  built entirely with HTML, CSS, and no JavaScript.
 group: components
 toc: true
 ---

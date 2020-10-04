@@ -1,6 +1,6 @@
 ---
-title: "Designer Conference at Florida 2020"
-date: 2020-07-13T13:06:26+06:00
+title: Designer Conference at Florida 2020
+date: 2020-07-13 07:06:26 Z
 featureImage: images/allpost/allPost-2.jpg
 postImage: images/single-blog/feature-image.jpg
 ---

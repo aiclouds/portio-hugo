@@ -1,6 +1,6 @@
 ---
-layout: docs
 title: Shadows
+layout: docs
 description: Add or remove shadows to elements with box-shadow utilities.
 group: utilities
 ---
