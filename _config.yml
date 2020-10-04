@@ -8,6 +8,6 @@ collections:
   uploads:
     title: Uploads
     output: true
-theme: jekyll-theme-time-machine
+theme: jekyll-theme-merlot
 url: https://aiclouds.github.com/portio-oct4/
 baseurl: "/aiclouds.github.io"
