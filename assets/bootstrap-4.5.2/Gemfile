@@ -7,3 +7,11 @@ group :development, :test do
   gem 'jekyll-toc', '~> 0.14.0'
   gem 'wdm', '~> 0.1.1', :install_if => Gem.win_platform?
 end
+diff --git i/Gemfile w/Gemfile
+index b224e17..28f0c04 100644
+--- i/Gemfile
++++ w/Gemfile
+@@ -3,3 +3,5 @@ gem 'github-pages', group: :jekyll_plugins
+ gem "jekyll-github-metadata"
+ gem "jekyll-octicons"
+ gem "jemoji"
