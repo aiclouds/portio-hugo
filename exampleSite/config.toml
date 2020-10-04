@@ -1,4 +1,4 @@
-baseURL = "http://github.com/aiclouds/portio-huo/"
+baseURL = "http://github.com/aiclouds/portio-oct4/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
