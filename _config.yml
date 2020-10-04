@@ -1,6 +1,7 @@
 ---
 title: Portio Oct4
 timezone: UTC
+encoding: UTF-8
 collections:
   posts:
     title: Posts
