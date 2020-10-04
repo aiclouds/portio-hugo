@@ -51,6 +51,8 @@ title = "Portio"
     url = "#"
     weight = 4
 
+   encoding: UTF-8
+
 [params]
   blogPageURL = "blog"
   contactLink = "contact"
@@ -59,6 +61,7 @@ title = "Portio"
   formspreeURL = "YOUR FORMSPREE URL"
   googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
   logo = "images/site-navigation/logo.png"
+  encoding: UTF-8
 
   [params.address]
     address = "23 Khan Niketon, Grand Street, NYK."
